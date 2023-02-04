@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.rabbitmq</groupId>
-    <artifactId>rabbitmq-demo</artifactId>
+    <artifactId>rabbitmq-producer-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>rabbitmq-demo</name>
     <description>rabbitmq-demo</description>
